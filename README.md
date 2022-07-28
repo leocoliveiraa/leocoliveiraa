@@ -1,5 +1,5 @@
 
-## Olá! Eu sou o Leonardo! 🌠
+## Hello, World! 🌠
 
  Tenho 17 anos, curto programar já faz um tempo, mas foi só agora em 2022 que decidi me profissionalizar de verdade. Estou no momento estudando e me focando nas tecnologias que você encontrar no meu perfil. Caso queira entrar em contato comigo, abaixo estão alguns meios.
 
