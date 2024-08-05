@@ -1,7 +1,7 @@
 
 ## Hello, World! 🌠
 
- Tenho 18 anos, curto programar já faz um tempo, mas foi só em 2022 que decidi me profissionalizar de verdade. Estou no momento estudando e me focando nas tecnologias que você encontrar no meu perfil. Caso queira entrar em contato comigo, abaixo estão alguns meios.
+ Tenho 19 anos, atuo principalmente no front-end, mas curto todas as áreas da programação, amo tecnologia e busco sempre aprender cada vez mais.
 
 <br>
 
