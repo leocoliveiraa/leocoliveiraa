@@ -1,7 +1,7 @@
 
 ## Hello, World! 🌠
 
- Tenho 19 anos, atuo principalmente no front-end, mas curto todas as áreas da programação, amo tecnologia e busco sempre aprender cada vez mais.
+ Tenho 20 anos, atuo principalmente no front-end, mas curto todas as áreas da programação, amo tecnologia e busco sempre aprender cada vez mais.
 
 <br>
 
