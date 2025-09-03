@@ -1,8 +1,6 @@
 ## Hello, World! 🌠
 Tenho 20 anos, atuo principalmente no front-end, mas curto todas as áreas da programação, amo tecnologia e busco sempre aprender cada vez mais.  
-<br>
 <hr>
-<br>
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leocoliveiraa&show_icons=true&theme=dracula)
 
