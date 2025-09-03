@@ -3,7 +3,7 @@
 <br>
 <hr>
 <br>
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leocoliveiraa&show_icons=true&theme=dracula)
+[![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leocoliveiraa&show_icons=true&theme=dracula)]
 
 ## Tecnologias que utilizo:
 <br>
