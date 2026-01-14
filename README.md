@@ -16,10 +16,10 @@ Me chamo Leonardo, tenho 20 anos, sou Desenvolvedor Full-Stack. Utilizo as tecno
 
 **Frontend & Mobile:** JavaScript, Tailwind CSS, React Native, Expo, Ionic
 
-**Backend:** Express, C#, .NET
+**Backend:** Express, Python, Bun, Deno, C#, .NET, Java
 
-**Database:** MongoDB, Supabase
+**Database:** PostgreSQL, MongoDB, Supabase
 
-**DevOps:** Git, Docker, Linux
+**DevOps & Tools:** Git, GitHub Actions, Docker, Linux, Insomnia
 
 <hr>
