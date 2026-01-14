@@ -1,5 +1,5 @@
 ## Hello, World! 🌠
-Me chamo Leonardo, tenho 20 anos e sou Desenvolvedor Full-Stack. Utilizo as tecnologias que você encontra no meu perfil. Amo café, futebol e tecnologia.
+Me chamo Leonardo, tenho 20 anos, sou Desenvolvedor Full-Stack. Utilizo as tecnologias que você encontra no meu perfil. Amo café, futebol e tecnologia.
 <hr>
 
 ## Tecnologias que utilizo:
@@ -17,6 +17,12 @@ Me chamo Leonardo, tenho 20 anos e sou Desenvolvedor Full-Stack. Utilizo as tecn
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
