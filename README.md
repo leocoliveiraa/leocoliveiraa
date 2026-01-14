@@ -1,5 +1,5 @@
 ## Hello, World! 🌠
-Me chamo Leonardo, tenho 20 anos, sou Desenvolvedor Full-Stack. Utilizo as tecnologias que você encontra no meu perfil. Amo café, futebol e tecnologia.
+Me chamo Leonardo, tenho 20 anos e sou Desenvolvedor Full-Stack. Utilizo as tecnologias que você encontra no meu perfil. Amo café, futebol e tecnologia.
 <hr>
 
 ## Tecnologias que utilizo:
