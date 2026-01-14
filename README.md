@@ -20,6 +20,15 @@ Me chamo Leonardo, tenho 20 anos, sou Desenvolvedor Full-Stack. Utilizo as tecno
 
 **Database:** PostgreSQL, MongoDB, Supabase
 
-**DevOps & Tools:** Git, GitHub Actions, Docker, Linux, Insomnia
+**DevOps & Tools:** Git, GitHub Actions, Docker, Linux, Postman, Insomnia
+
+<hr>
+
+## 📫 Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo11.contato@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leocoliveira)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leobtwz)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/leocoliveira)
 
 <hr>
