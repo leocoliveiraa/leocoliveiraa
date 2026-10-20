@@ -1,10 +1,10 @@
-## Leonardo — Desenvolvedor Full-Stack
+## Leonardo — Full-Stack Developer
 
-Tenho 21 anos, sou desenvolvedor full-stack com foco em construir produtos web funcionais e bem estruturados. Trabalho com projetos que vão de plataformas SaaS a sistemas de gestão, sempre buscando soluções práticas e código limpo.
+I'm 21, a full-stack developer focused on building working, well-structured web products. I work on everything from SaaS platforms to management systems, always aiming for practical solutions and clean code.
 
 <hr>
 
-## Stack Principal
+## Main Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -17,7 +17,7 @@ Tenho 21 anos, sou desenvolvedor full-stack com foco em construir produtos web f
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-## Outras Tecnologias
+## Other Technologies
 
 **Frontend & Mobile:** JavaScript, Vue.js, Tailwind CSS, React Native, Expo, Ionic  
 **Backend:** Express, Python, Bun, Deno, C#, .NET, Java  
@@ -26,7 +26,7 @@ Tenho 21 anos, sou desenvolvedor full-stack com foco em construir produtos web f
 
 <hr>
 
-## Contato
+## Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo11.contato@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leocoliveira)
